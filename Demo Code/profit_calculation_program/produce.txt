@@ -1,0 +1,9 @@
+7
+carrot 0.47 1736 baby
+plum 0.89 4040 small
+apple 0.38 8425 small
+lettuce 0.99 4624 large
+cherry 1.25 5366 small
+dragonfruit 2.50 4245 large
+grape 0.97 5285 small
+
